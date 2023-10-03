@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota RAV4",
+      "image": "https://www.motortrend.com/uploads/sites/10/2015/11/2015-toyota-rav4-limited-2wd-suv-angular-front.png",
+      "seats": 4,
+      "year": 2021,
+      "engine": "Hybrid",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    },
+    {
+      "id": 2,
+      "name": "BMW 3 Series",
+      "image": "https://th.bing.com/th/id/R.5af9279b3b4dc50e1a8557252b2e3ab9?rik=A3kTDs1NAzlrAw&riu=http%3a%2f%2fwww.thetruthaboutcars.com%2fwp-content%2fuploads%2f2016%2f09%2f2017_Honda_Civic_Hatchback_07.jpg&ehk=kL6Ce2r1AWtEf0gdSHDnYnEaRQOfqxrDv%2bAvy4qKmc8%3d&risl=&pid=ImgRaw&r=0",
+      "seats": 4,
+      "year": 2019,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    },
+    {
+      "id": 3,
+      "name": "Volkswagen T-Cross",
+      "image": "https://media.autoexpress.co.uk/image/private/s--cPAkU3m9--/v1563182810/autoexpress/2019/04/01_53.jpg",
+      "seats": 4,
+      "year": 2020,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    },
+    {
+      "id": 4,
+      "name": "Cadillac Escalade",
+      "image": "https://cdn.motor1.com/images/mgl/lNnnl/s1/cadillac-escalade-sport-edition.jpg",
+      "seats": 4,
+      "year": 2021,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "7.7km/1-litre"
+    },
+    {
+      "id": 5,
+      "name": "BMW 4 Series GTI",
+      "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2017/04/bmw_4_series_m_sport_coupe-004.jpg",
+      "seats": 4,
+      "year": 2023,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "7.6km/1-litre"
+    },
+    {
+      "id": 6,
+      "name": "BMW 4 Series",
+      "image": "https://images.hgmsites.net/hug/bmw-4-series_100748446_h.jpg",
+      "seats": 4,
+      "year": 2022,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "7.2km/1-litre"
+    },
+    {
+      "id": 7,
+      "name": "Audi A4",
+      "image": "audi_a4.jpg",
+      "seats": 4,
+      "year": 2023,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    },
+    {
+      "id": 8,
+      "name": "Mercedes-Benz E-Class",
+      "image": "mercedes_e_class.jpg",
+      "seats": 4,
+      "year": 2022,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    },
+    {
+      "id": 9,
+      "name": "Volkswagen Jetta",
+      "image": "volkswagen_jetta.jpg",
+      "seats": 4,
+      "year": 2023,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    },
+    {
+      "id": 10,
+      "name": "Hyundai Sonata",
+      "image": "hyundai_sonata.jpg",
+      "seats": 4,
+      "year": 2022,
+      "engine": "Gasoline",
+      "mode": "Automatic",
+      "price": 440,
+      "speed": "6.1km/1-litre"
+    }
+  ]
+  
